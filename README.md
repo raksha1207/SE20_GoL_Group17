@@ -1,7 +1,6 @@
 # SE20_GoL_Group17
 
 
-[![Build Status](https://travis-ci.com/amolgautam25/se20_group17.svg?branch=master)](https://travis-ci.com/amolgautam25/se20_group17)
 ![GitHub](https://img.shields.io/github/license/amolgautam25/se20_group17)
 
 
